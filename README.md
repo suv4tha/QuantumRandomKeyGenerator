@@ -56,8 +56,8 @@ Add your images here to showcase your project.
 Example:
 
 ![Screenshot 1](simu1.png))
-![Screenshot 1]([path/to/screenshot1.png](https://github.com/suv4tha/QuantumRandomKeyGenerator/blob/main/simu2.png))
-![Screenshot 1]([path/to/screenshot1.png](https://github.com/suv4tha/QuantumRandomKeyGenerator/blob/main/simu3.png))
+![Screenshot 1](simu2.png))
+![Screenshot 1](QuantumRandomKeyGenerator/blob/main/simu3.png))
 ![Screenshot 1]([path/to/screenshot1.png](https://github.com/suv4tha/QuantumRandomKeyGenerator/blob/main/simu4.png))
 
 > Replace `path/to/screenshot1.png` with the actual path to your images in the repo.
