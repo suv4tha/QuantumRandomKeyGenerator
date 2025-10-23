@@ -1,6 +1,4 @@
-Absolutely! Here's a clean, professional `README.md` template for your **Quantum Random Key Generator** repo. I’ve included placeholders for screenshots/images so you can easily add them later.
 
-````markdown
 # Quantum Random Key Generator
 
 A **Quantum Random Key Generator** built using quantum computing principles. This project generates highly secure and truly random cryptographic keys, ideal for encryption and secure communications.
