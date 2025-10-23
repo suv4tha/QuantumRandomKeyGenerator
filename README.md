@@ -55,10 +55,10 @@ python main.py
 Add your images here to showcase your project.
 Example:
 
-![Screenshot 1](simu1.png))
-![Screenshot 1](simu2.png))
-![Screenshot 1](simu3.png))
-![Screenshot 1](simu4.png))
+![Screenshot 1](Screenshot/simu1.png)
+![Screenshot 1](Screenshot/simu2.png)
+![Screenshot 1](Screenshot/simu3.png)
+![Screenshot 1](Screenshot/simu4.png)
 
 > Replace `path/to/screenshot1.png` with the actual path to your images in the repo.
 
